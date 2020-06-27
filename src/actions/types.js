@@ -1,0 +1,6 @@
+// Movies
+export const MOVIES_ERROR = "  MOVIES_ERROR";
+export const MOVIES_LOADING = "MOVIES_LOADING";
+export const MOVIES_SUCCESS = "MOVIES_SUCCESS";
+export const SET_RATING = "SET_RATING";
+export const SET_SELECTED_MOVIE = "SET_SELECTED_MOVIE";
